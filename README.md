@@ -11,3 +11,6 @@ Many things left to do including:
 -much page styling
 -implementing mailing list features
 -syncing this website to a third party website that allows for booking and paying features
+-creating nav bar for additional pages leading to other services performed by business
+-website picture and text optimization
+-minify all components
