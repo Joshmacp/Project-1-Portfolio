@@ -1,0 +1,33 @@
+.logo {
+	margin-top: 20px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+    background-image: url("../images/life_under_ocean.jpg");
+    background-size: cover;
+}
+
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+  
+}
+
+ul.social {
+	list-style: none;
+	text-align: justify;
+
+}
+
+ul.social li {
+	display: inline;
+	padding-right: 10px;
+}
+
+.phone {
+	width: 100%;
+}
